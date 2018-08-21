@@ -1,4 +1,5 @@
 # Coins News
-Digital assets (digital money or electronic money or electronic currency) is a type of currency available only in digital form, not in physical (such as banknotes and coins). It exhibits properties similar to real data, but allows for moving transactions and borderless transfer -of-ownership. Examples include virtual database and cryptocurrencies or even central bank issued "digital base money". Like traditional money, this may also be used to buy physical goods and services, but may also be restricted to certain communities such as for use In an online game or social network.Digital currency is a money balance recorded electronically on a stored-value card or other device. Another form of electronic money is network money, allowing the transfer of value on computer networks, particularly the Internet. Digital banking can also be centralized, where ther e is a central point of control over the money supply, or decentralized, where the control over the money supply can come from various sources.
+The latest Coins news, the latest electronic currency exchange rate.
+Keep up to date with the latest e-money information.
 
 This is an application about the latest electronic currency to help you understand the latest status of cryptocurrencies
